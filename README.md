@@ -22,7 +22,7 @@ I am looking to pursue opportunities in areas such as Data Analysis, Business An
 - [Microsoft Office Excel Specialist - 2018](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=251&cvid=jlFNhafPGdADi7aMlNiVXw==)
 
 
-<h2>💼 Past Work Experience</h2>
+<h2>💼 Past Work Experience:</h2>
 
 - Customer Success Program Coordinator Co-op at BlackBerry
 - Underwriting Analyst Co-op, Cybersecurity at AIG American International Group Inc.
