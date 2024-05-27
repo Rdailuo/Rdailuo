@@ -38,5 +38,5 @@ I am looking to pursue opportunities in areas such as Data Analysis, Business An
 
 <h2> 🤳 Connect with me:</h2>
 
-[LinkedIn]: https://www.linkedin.com/in/reynadai/
-[Email]: rdailuo@gmail.com
+- LinkedIn: https://www.linkedin.com/in/reynadai/
+- Email: rdailuo@gmail.com
