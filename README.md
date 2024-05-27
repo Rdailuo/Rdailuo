@@ -31,7 +31,7 @@ I am looking to pursue opportunities in areas such as Data Analysis, Business An
 
 - I can speak Spanish, Chinese and English
 - I am a hip hop and marinera (Peruvian traditional dance) dancer
-- I like exploring world of AI and integrate it into business strategies
+- I like exploring the world of AI and integrate it into business strategies (that's cool!)
 - If you love coffee like I do, I will buy you one!
 - My dream is to eat all types of food that exist in the world 🌎
 
@@ -39,4 +39,4 @@ I am looking to pursue opportunities in areas such as Data Analysis, Business An
 <h2> 🤳 Connect with me:</h2>
 
 - LinkedIn: https://www.linkedin.com/in/reynadai/
-- Email: rdailuo@gmail.com
+- Email: rdailuo77@gmail.com
