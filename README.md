@@ -12,7 +12,7 @@ I am looking to pursue opportunities in areas such as Data Analysis, Business An
 <h2>👨‍💻 Projects:</h2>
 
 - [Expense Tracker Automation in Python](https://github.com/Rdailuo/Expense-Tracker-Automation.git)
-- [British Airways Reviews - Interactive Tableau Dashboard](https://github.com/Rdailuo/Expense-Tracker-Automation.git)
+- [British Airways Reviews - Interactive Tableau Dashboard](https://public.tableau.com/shared/QWCYRJKDH?:display_count=n&:origin=viz_share_link)
 - [Coffee Sales Dynamic Dashboard](https://github.com/Rdailuo/excel-project-coffee.git)
 
 <h2>🏆 Certifications:</h2>
