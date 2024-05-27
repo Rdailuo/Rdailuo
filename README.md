@@ -13,7 +13,7 @@ I am looking to pursue opportunities in areas such as Data Analysis, Business An
 
 - [Expense Tracker Automation in Python](https://github.com/Rdailuo/Expense-Tracker-Automation.git)
 - [British Airways Reviews - Interactive Tableau Dashboard](https://github.com/Rdailuo/Expense-Tracker-Automation.git)
-- [Coffee Sales Dynamic Dashboard](https://github.com/Rdailuo/Expense-Tracker-Automation.git)
+- [Coffee Sales Dynamic Dashboard](https://github.com/Rdailuo/excel-project-coffee.git)
 
 <h2>🏆 Certifications:</h2>
 
@@ -29,11 +29,11 @@ I am looking to pursue opportunities in areas such as Data Analysis, Business An
 
 <h2> ⚡ Fun Facts:</h2>
 
-- I speack Spanish, Chinese and English
-- I dance hip hop and marinera
-- I like exploring the AI world and integrate it to business strategies
+- I can speak Spanish, Chinese and English
+- I am a hip hop and marinera (Peruvian traditional dance) dancer
+- I like exploring world of AI and integrate it into business strategies
 - If you love coffee like I do, I will buy you one!
-- My dream is to eat all types of food that exist in the world
+- My dream is to eat all types of food that exist in the world 🌎
 
 
 <h2> 🤳 Connect with me:</h2>
