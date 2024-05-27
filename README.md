@@ -24,8 +24,8 @@ I am looking to pursue opportunities in areas such as Data Analysis, Business An
 
 <h2>💼 Past Work Experience:</h2>
 
-- Customer Success Program Coordinator Co-op at BlackBerry
-- Underwriting Analyst Co-op, Cybersecurity at AIG American International Group Inc.
+- Customer Success Program Coordinator Co-op @ BlackBerry
+- Underwriting Analyst Co-op, Cybersecurity @ AIG American International Group Inc.
 
 <h2> ⚡ Fun Facts:</h2>
 
