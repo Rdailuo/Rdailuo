@@ -2,7 +2,7 @@
 
 <h2>👩‍🎓 Education:</h2>
 
-3rd Year Double Degree Student (2021-2026):
+4rd Year Double Degree Student (2021-2026):
 - University of Waterloo: Bachelor of Mathematics, Statistics Major
 - Wilfrid Laurier University: Bachelor of Business Administration, Finance Major
 
