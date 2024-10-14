@@ -25,7 +25,7 @@ I am looking to pursue opportunities in areas such as Data Analysis, Business An
 - [Microsoft Office Excel Specialist - 2018](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=251&cvid=jlFNhafPGdADi7aMlNiVXw==)
 
 
-<h2>💼 Past Work Experience:</h2>
+<h2>💼 Work Experience:</h2>
 - Data Analyst (Global Procurement) @ Royal Bank of Canada (RBC) (Sept-Dec 2024)
 - Customer Success Program Coordinator Co-op @ BlackBerry (Jan-Apr 2024)
 - Underwriting Analyst Co-op, Cybersecurity @ AIG American International Group Inc. (Sept-Dec 2024)
