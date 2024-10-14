@@ -11,10 +11,12 @@ I am looking to pursue opportunities in areas such as Data Analysis, Business An
 
 <h2>👨‍💻 Projects:</h2>
 
-- [Expense Tracker Automation in Python](https://github.com/Rdailuo/Expense-Tracker-Automation.git)
+- ["Pepito" Retail Store Analysis - SQL](https://github.com/Rdailuo/SQL_retail_sales.git)
 - [British Airways Reviews - Interactive Tableau Dashboard](https://public.tableau.com/shared/QWCYRJKDH?:display_count=n&:origin=viz_share_link)
 - [London Bikes Ride with Python and Tableau](https://public.tableau.com/app/profile/reyna.dai/viz/LondonBikes_17283523766730/Dashboard1)
+- [Expense Tracker Automation in Python](https://github.com/Rdailuo/Expense-Tracker-Automation.git)
 - [Coffee Sales Dynamic Dashboard](https://github.com/Rdailuo/excel-project-coffee.git)
+
 
 <h2>🏆 Certifications:</h2>
 
@@ -24,15 +26,15 @@ I am looking to pursue opportunities in areas such as Data Analysis, Business An
 
 
 <h2>💼 Past Work Experience:</h2>
-
-- Customer Success Program Coordinator Co-op @ BlackBerry
-- Underwriting Analyst Co-op, Cybersecurity @ AIG American International Group Inc.
+- Data Analyst (Global Procurement) @ Royal Bank of Canada (RBC) (Sept-Dec 2024)
+- Customer Success Program Coordinator Co-op @ BlackBerry (Jan-Apr 2024)
+- Underwriting Analyst Co-op, Cybersecurity @ AIG American International Group Inc. (Sept-Dec 2024)
 
 <h2> ⚡ Fun Facts:</h2>
 
 - I can speak Spanish, Chinese and English
-- I am a hip hop and marinera (Peruvian traditional dance) dancer
-- I like exploring the world of AI and integrate it into business strategies (that's cool!)
+- I am a hip-hop and marinera (Peruvian traditional dance) dancer
+- I like exploring the world of AI and integrating it into business strategies (that's cool!)
 - If you love coffee like I do, I will buy you one!
 - My dream is to eat all types of food that exist in the world 🌎
 
