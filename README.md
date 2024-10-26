@@ -11,6 +11,7 @@ I am looking to pursue opportunities in areas such as Data Analysis, Business An
 
 <h2>👨‍💻 Projects:</h2>
 
+- [Movies Correlation Analysis](https://github.com/Rdailuo/movies_correlation.git)
 - ["Pepito" Retail Store Analysis - SQL](https://github.com/Rdailuo/SQL_retail_sales.git)
 - [British Airways Reviews - Interactive Tableau Dashboard](https://public.tableau.com/shared/QWCYRJKDH?:display_count=n&:origin=viz_share_link)
 - [London Bikes Ride with Python and Tableau](https://public.tableau.com/app/profile/reyna.dai/viz/LondonBikes_17283523766730/Dashboard1)
