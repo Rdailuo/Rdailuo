@@ -11,7 +11,7 @@ I am looking to pursue opportunities in areas such as Data Analysis, Business An
 
 <h2>👨‍💻 Projects:</h2>
 
-- [Linear Regression Analysis - Ecommerce](https://github.com/Rdailuo/linear_regression/blob/main/Linear%20Regression.ipynb)
+- [Linear Regression Analysis - Ecommerce](https://github.com/Rdailuo/linear_regression/blob/main/Linear%20Regression%20(1).ipynb)
 - [Movies Correlation Analysis](https://github.com/Rdailuo/movies_correlation.git)
 - ["Pepito" Retail Store Analysis - SQL](https://github.com/Rdailuo/SQL_retail_sales.git)
 - [British Airways Reviews - Interactive Tableau Dashboard](https://public.tableau.com/shared/QWCYRJKDH?:display_count=n&:origin=viz_share_link)
