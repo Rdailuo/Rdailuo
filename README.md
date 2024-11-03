@@ -10,7 +10,7 @@
 I am looking to pursue opportunities in areas such as Data Analysis, Business Analysis, and Financial Analysis in the Finance or Tech industry, drawing on the quantitative and qualitative skills developed through my academic background. I am dedicated to ongoing learning and embracing innovations that align with current global trends and changes.
 
 <h2>👨‍💻 Projects:</h2>
-
+- [Linear Regression Analysis - Ecommerce](https://github.com/Rdailuo/linear_regression/blob/main/Linear%20Regression.ipynb)
 - [Movies Correlation Analysis](https://github.com/Rdailuo/movies_correlation.git)
 - ["Pepito" Retail Store Analysis - SQL](https://github.com/Rdailuo/SQL_retail_sales.git)
 - [British Airways Reviews - Interactive Tableau Dashboard](https://public.tableau.com/shared/QWCYRJKDH?:display_count=n&:origin=viz_share_link)
