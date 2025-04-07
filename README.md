@@ -7,7 +7,7 @@
 - Wilfrid Laurier University: Bachelor of Business Administration, Finance Major
 
 <h2> 🌱 Goals and Growth:</h2>
-I am looking to pursue opportunities in areas such as Data Analysis, Business Analysis, and Financial Analysis in the Finance or Tech industry, drawing on the quantitative and qualitative skills developed through my academic background. I am dedicated to ongoing learning and embracing innovations that align with current global trends and changes.
+I am looking to pursue opportunities in areas such as data analysis, product management, and product strategy in the tech or finance industry, drawing on the quantitative and qualitative skills I have developed through my academic background. I am dedicated to ongoing learning and embracing innovations that align with current global trends and changes.
 
 <h2>👨‍💻 Projects:</h2>
 
@@ -20,18 +20,24 @@ I am looking to pursue opportunities in areas such as Data Analysis, Business An
 - [Expense Tracker Automation in Python](https://github.com/Rdailuo/Expense-Tracker-Automation.git)
 - [Coffee Sales Dynamic Dashboard](https://github.com/Rdailuo/excel-project-coffee.git)
 
+<h2>💼 Work Experience:</h2>
+- Data Analyst (Strategy & Transformation - Global Procurement) @ Royal Bank of Canada (RBC) (Sept 2024 - Aug 2025)
+- Customer Success Program Coordinator Co-op @ BlackBerry (Jan - Apr 2024)
+- Underwriting Analyst Co-op, Cybersecurity @ AIG American International Group Inc. (Sept- Dec 2024)
 
 <h2>🏆 Certifications:</h2>
-
+ 
 - [Bloomberg Market Concepts (BMC) - 2024](https://portal.bloombergforeducation.com/certificates/YZLu8qReu39LHAP5qcX2MNo1)
 - [Bloomberg Finance Fundamentals (BFF) - 2024](https://portal.bloombergforeducation.com/certificates/wHXSPSnyLW35rh4TW8CGqbar)
 - [Microsoft Office Excel Specialist - 2018](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=251&cvid=jlFNhafPGdADi7aMlNiVXw==)
 
+<h2>🏆 Achievements:</h2>
 
-<h2>💼 Work Experience:</h2>
-- Data Analyst (Global Procurement) @ Royal Bank of Canada (RBC) (Sept-Dec 2024)
-- Customer Success Program Coordinator Co-op @ BlackBerry (Jan-Apr 2024)
-- Underwriting Analyst Co-op, Cybersecurity @ AIG American International Group Inc. (Sept-Dec 2024)
+- Reinsurance Research Council of Canada Award Recipient (2025)
+- 1st Place in 2023 Quantify Risk & Insurance Case Competition
+- Top 10% in Canadian Senior Mathematics Contest 2020 | CEMC University of Waterloo
+- Semifinalist in PepsiCo Pitch Competition (65/1,567 competitors)
+
 
 <h2> ⚡ Fun Facts:</h2>
 
@@ -46,3 +52,4 @@ I am looking to pursue opportunities in areas such as Data Analysis, Business An
 
 - LinkedIn: https://www.linkedin.com/in/reynadai/
 - Email: rdailuo77@gmail.com
+- Phone: 416-8346369
