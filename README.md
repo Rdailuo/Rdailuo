@@ -21,6 +21,7 @@ I am looking to pursue opportunities in areas such as data analysis, product man
 - [Coffee Sales Dynamic Dashboard](https://github.com/Rdailuo/excel-project-coffee.git)
 
 <h2>💼 Work Experience:</h2>
+
 - Data Analyst (Strategy & Transformation - Global Procurement) @ Royal Bank of Canada (RBC) (Sept 2024 - Aug 2025)
 - Customer Success Program Coordinator Co-op @ BlackBerry (Jan - Apr 2024)
 - Underwriting Analyst Co-op, Cybersecurity @ AIG American International Group Inc. (Sept- Dec 2024)
