@@ -15,7 +15,7 @@ I am looking to pursue opportunities in areas such as data analysis, product man
 - [Linear Regression Analysis - Ecommerce](https://github.com/Rdailuo/linear_regression/blob/main/Linear%20Regression%20(1).ipynb)
 - [Movies Correlation Analysis](https://github.com/Rdailuo/movies_correlation.git)
 - ["Pepito" Retail Store Analysis - SQL](https://github.com/Rdailuo/SQL_retail_sales.git)
-- [British Airways Reviews - Interactive Tableau Dashboard](https://public.tableau.com/shared/QWCYRJKDH?:display_count=n&:origin=viz_share_link)
+- [British Airways Reviews - Interactive Tableau Dashboard](https://public.tableau.com/views/BritishAirwaysReviews_17150382920870/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [London Bikes Ride with Python and Tableau](https://public.tableau.com/app/profile/reyna.dai/viz/LondonBikes_17283523766730/Dashboard1)
 - [Expense Tracker Automation in Python](https://github.com/Rdailuo/Expense-Tracker-Automation.git)
 - [Coffee Sales Dynamic Dashboard](https://github.com/Rdailuo/excel-project-coffee.git)
