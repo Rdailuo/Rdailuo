@@ -11,6 +11,7 @@ I am looking to pursue opportunities in areas such as data analysis, product man
 
 <h2>👨‍💻 Projects:</h2>
 
+- [Banking System - Python](https://github.com/Rdailuo/bankingsys.git) 
 - [Mobile Game Success Analysis - Python](https://github.com/Rdailuo/Game_Analysis.git) 
 - [Linear Regression Analysis - Ecommerce](https://github.com/Rdailuo/linear_regression/blob/main/Linear%20Regression%20(1).ipynb)
 - [Movies Correlation Analysis](https://github.com/Rdailuo/movies_correlation.git)
